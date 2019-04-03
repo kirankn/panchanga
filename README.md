@@ -1,43 +1,23 @@
-# Welcome to Panchanga
+# Panchanga
 
-You can use the [editor on GitHub](https://github.com/kirankn/panchanga/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site is to share the books and writings of Sri. B.K. Hari Shastry on various topics related to Vedic/Hindu Astrology in Kannada language, including the Panchanga (Hindu Calendar or Almanac) written every year by the same author.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please share this site link with your friends, family members and other seekers of knowledge. 
 
 ### 2019-2020 Kannada Panchanga
 
 [Sri Vikari Samvatsara Sringeri Sri Sharada Panchanga](./files/vikari_sringeri_panchanga.pdf){:target="_blank"} (1.9 MB)
 
-### About Us
-![Image](about.png)
 
-### Test
+### Other Books & Writings
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+#### Header 3
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+### About
+![Image](about.png)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kirankn/panchanga/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Contact
 
