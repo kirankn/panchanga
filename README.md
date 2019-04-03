@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 2019-2020 Kannada Panchanga
 
-[Sri Vikari Samvatsara Sringeri Sri Sharada Panchanga](./files/vikari_sringeri_panchanga.pdf){:target="_blank"}
+[Sri Vikari Samvatsara Sringeri Sri Sharada Panchanga](./files/vikari_sringeri_panchanga.pdf){:target="_blank"} (1.9 MB)
 
 
 ### Test
