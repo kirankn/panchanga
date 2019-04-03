@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/kirankn/panchanga/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### ²æÃ «PÁj ¸ÀAªÀvÀìgÀzÀ ±ÀÈAUÉÃj ²æÃ±ÁgÀzÁ ¥ÀAZÁAUÀ
+### 2019-2020 Kannada Panchanga
+
+Sri Vikari Samvatsara Sringeri Sri Sharada Panchanga
 
 ### Test
 
