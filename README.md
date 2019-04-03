@@ -14,7 +14,7 @@ Please share this site link with your friends, family members and other seekers 
 ### Other Books & Writings
 
 #### General
-1. [Nirayana Ephemeries at 0.00 IST from 2000-2004](./files/sphuta at_0Hr_IST.pdf){:target="_blank"} (Download Size: 2.8 MB)
+1. [Nirayana Ephemeries at 0.00 IST from 2000-2024](./files/sphuta at_0Hr_IST.pdf){:target="_blank"} (Download Size: 2.8 MB)
 2. [Rasi Navamsha Padaka Padachara](./files/NEW_raSI_Navamsha_padaka_PADACHARA.pdf){:target="_blank"} (Download Size: 76 KB)
 3. [Jyothirmunnudi - 1](./files/jyothirmunnudi_part1.pdf){:target="_blank"} (Download Size: 990 KB)
 4. [Jyothirmunnudi - 2](./files/jyothirmunnudi part2.pdf){:target="_blank"} (Download Size: 328 KB)
