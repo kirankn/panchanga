@@ -19,6 +19,9 @@ Please share this site link with your friends, family members and other seekers 
 3. [Jyothirmunnudi - 3: District-wise Sunrise/Sunset Timings](./files/jyothirmunnudi_part_3_A5.pdf){:target="_blank"} (Download Size: 2 MB)
 4. [Nirayana Ephemeries at 0.00 IST from 2000-2024](./files/sphuta at_0Hr_IST.pdf){:target="_blank"} (Download Size: 2.8 MB)
 5. [Rasi Navamsha Padaka Padachara](./files/NEW_raSI_Navamsha_padaka_PADACHARA.pdf){:target="_blank"} (Download Size: 76 KB)
+5. [Sri Narasimha 108 Namavali](./files/108 namavali.pdf){:target="_blank"} (Download Size: 72 KB)
+5. [Sri Gayathri 108 Namavali](./files/gayatri_saptarshi_108.pdf){:target="_blank"} (Download Size: 40 KB)
+5. [Sri Gayathri 24 Varnamala Padakam](./files/gayatri_manthra.pdf){:target="_blank"} (Download Size:100 KB)
 
 
 #### Specific to Vikari Samvatsara
