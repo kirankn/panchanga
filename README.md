@@ -6,7 +6,7 @@ Please share this site link with your friends, family members and other seekers 
 
 ### 2019-2020 Kannada Panchanga
 
-[Sri Vikari Samvatsara Sringeri Sri Sharada Panchanga](./files/vikari_sringeri_panchanga.pdf){:target="_blank"} (1.9 MB)
+[Sri Vikari Samvatsara Sringeri Sri Sharada Panchanga](./files/vikari_sringeri_panchanga.pdf){:target="_blank"} (Download Size: 1.9 MB)
 
 
 ### Other Books & Writings
