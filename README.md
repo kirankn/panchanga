@@ -24,6 +24,7 @@ Please share this site link with your friends, family members and other seekers 
 Bidare Prakashana / Sridevi Jyotishalaya
 Uttarahalli, Bengaluru
 
-Ph: O - Nine 3 Four 1 Three - One 6 Nine 5 Six
+Phone: O - Nine 3 Four 1 Three - One 6 Nine 5 Six
+E-mail: bkhshastry AT gmail DOT com
 
-Strictly no consulations over phone. Call only between 2pm to 7pm.
+Strictly no consulations over phone/email. Call only between 2pm to 7pm to setup appointment.
