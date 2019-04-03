@@ -34,7 +34,7 @@ Please share this site link with your friends, family members and other seekers 
 
 ### Contact
 
-Bidare Prakashana / Sridevi Jyotishalaya
+Bidare Prakashana / Sri Devi Jyotishalaya
 Uttarahalli, Bengaluru
 
 Phone: O - Nine 3 Four 1 Three - One 6 Nine 5 Six
