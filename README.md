@@ -8,10 +8,12 @@ Please share this site link with your friends, family members and other seekers 
 
 [Sri Vikari Samvatsara Sringeri Sri Sharada Panchanga](./files/vikari_sringeri_panchanga.pdf){:target="_blank"} (Download Size: 1.9 MB)
 
+[Sri Vikari Samvatsara Sri Seebi Narasimha Swamy Panchanga](./files/sheebi_pan.pdf){:target="_blank"} (Download Size: 6 MB)
+
 
 ### Other Books & Writings
 
-#### Header 3
+
 
 1. Numbered
 2. List
@@ -25,6 +27,7 @@ Bidare Prakashana / Sridevi Jyotishalaya
 Uttarahalli, Bengaluru
 
 Phone: O - Nine 3 Four 1 Three - One 6 Nine 5 Six
+
 E-mail: bkhshastry AT gmail DOT com
 
 Strictly no consulations over phone/email. Call only between 2pm to 7pm to setup appointment.
