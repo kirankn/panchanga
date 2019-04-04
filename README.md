@@ -42,4 +42,4 @@ Phone: O - Nine 3 Four 1 Three - One 6 Nine 5 Six
 
 E-mail: bkhshastry AT gmail DOT com
 
-Strictly no consulations over phone/email. Call only between 2pm to 7pm to setup appointment.
+Strictly no consultations over phone/email. Call only between 2pm to 7pm to setup appointment.
