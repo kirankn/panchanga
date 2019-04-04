@@ -43,3 +43,7 @@ Phone: O - Nine 3 Four 1 Three - One 6 Nine 5 Six
 E-mail: bkhshastry AT gmail DOT com
 
 Strictly no consulations over phone/email. Call only between 2pm to 7pm to setup appointment.
+
+### NaMo again !
+
+![Image](https://cdn.nationwithnamo.com/views/assets/images/slider/21-11-NwN-WebBanner03.png)
