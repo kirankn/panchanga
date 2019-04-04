@@ -5,5 +5,4 @@ theme: jekyll-theme-leap-day
 google_analytics: UA-137726967-1
 
 # URL
-url: "https://kirankn.github.io"
-baseurl: "/panchanga"
+baseurl: "https://kirankn.github.io/panchanga"
