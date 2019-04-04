@@ -2,7 +2,7 @@
 
 This site is to share the books and writings of Sri. B.K. Hari Shastry on various topics related to Vedic/Hindu Astrology and Spirituality in Kannada language, including the Panchanga (Hindu Calendar or Almanac) written every year by the same author.
 
-Please share this site link with your friends, family members and other seekers of knowledge. 
+Please share this site link with your friends, family members and other seekers of knowledge. We aim at adding more books and articles in the near future. Please revisit from time to time to get the updates.
 
 ### 2019-2020 Kannada Panchanga
 
