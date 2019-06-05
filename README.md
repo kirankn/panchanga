@@ -5,7 +5,7 @@ This site is to share the books and writings of Sri. B.K. Hari Shastry on variou
 Please share this site link with your friends, family members and other seekers of knowledge. We aim at adding more books and articles in the near future. Please revisit from time to time to get the updates.
 
 ### 2020-2021 Kannada Panchanga
-[Sri Sharvari Samvatsara + 2020 Sri Seebi Narasimha Swamy Panchanga](./files/sharvari_muhurtha_panchanga.pdf){:target="_blank"} (Download Size: 4 MB)
+[Sri Sharvari Samvatsara (2020-21) + 2020 (Jan-Dec) Sri Seebi Narasimha Swamy Panchanga](./files/sharvari_muhurtha_panchanga.pdf){:target="_blank"} (Download Size: 4 MB)
 
 ### 2019-2020 Kannada Panchanga
 
