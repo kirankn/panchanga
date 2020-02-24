@@ -7,9 +7,9 @@ Please share this site link with your friends, family members and other seekers 
 ### 2020-2021 Kannada Panchanga
 [Sri Sharvari Samvatsarada Bengaluru Panchanga (Comprehensive) : 25.03.2020 to 12.04.2021](./files/sharvari_50.pdf){:target="_blank"} (1.5 MB)
 
-[Sri Sharvari Samvatsarada Bengaluru Panchanga (Regular) : 25.03.2020 to 12.04.2021](./files/sharvari_30.pdf){:target="_blank"} (1.5 MB)
+[Sri Sharvari Samvatsarada Bengaluru Panchanga (Regular) : 25.03.2020 to 12.04.2021](./files/sharvari_30.pdf){:target="_blank"} (5.1 MB)
 
-[Sri Sharvari Samvatsarada Bengaluru Panchanga (Mini) : 25.03.2020 to 12.04.2021](./files/sharvari_20.pdf){:target="_blank"} (1.5 MB)
+[Sri Sharvari Samvatsarada Bengaluru Panchanga (Mini) : 25.03.2020 to 12.04.2021](./files/sharvari_20.pdf){:target="_blank"} (1.4 MB)
 
 
 ### 2019-2020 + Old 20-21 Kannada Panchanga
