@@ -14,10 +14,9 @@ Please share this site link with your friends, family members and other seekers 
 ![new](https://panchanga.karigiri.net/new.png "NEW")
 [Sri Sharvari Samvatsara Bengaluru Panchanga (Mini)](./files/sharvari_20.pdf){:target="_blank"} (1.4 MB)
 
+[Sri Sharvari Samvatsara (2020-21) + 2020 (Jan-Dec) Sri Seebi Narasimha Swamy Panchanga](./files/sharvari_muhurtha_panchanga.pdf){:target="_blank"} (4 MB)
 
 ### Older Kannada Panchangas
-
-[Sri Sharvari Samvatsara (2020-21) + 2020 (Jan-Dec) Sri Seebi Narasimha Swamy Panchanga](./files/sharvari_muhurtha_panchanga.pdf){:target="_blank"} (4 MB)
 
 [Sri Vikari Samvatsara Sringeri Sri Sharada Panchanga](./files/vikari_sringeri_panchanga.pdf){:target="_blank"} (1.9 MB)
 
