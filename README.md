@@ -6,6 +6,9 @@ Please share this site link with your friends, family members and other seekers 
 
 ### 2020-2021 Kannada Panchanga : 25.03.2020 to 12.04.2021
 ![new](https://panchanga.karigiri.net/new.png "NEW")
+[Sri Sharvari Samvatsara Sringeri Panchanga](./files/sringeri_panchang_sharvari.pdf){:target="_blank"} (4.7 MB)
+
+![new](https://panchanga.karigiri.net/new.png "NEW")
 [Sri Sharvari Samvatsara Bengaluru Panchanga (Comprehensive)](./files/sharvari_50.pdf){:target="_blank"} (1.5 MB)
 
 ![new](https://panchanga.karigiri.net/new.png "NEW")
@@ -34,6 +37,7 @@ Please share this site link with your friends, family members and other seekers 
 6. [Sri Narasimha 108 Namavali](./files/108 namavali.pdf){:target="_blank"} (72 KB)
 7. [Sri Gayathri 108 Namavali](./files/gayatri_saptarshi_108.pdf){:target="_blank"} (40 KB)
 8. ![new](https://panchanga.karigiri.net/new.png "NEW")[Chandra Padachara 2011-2118](./files/chandra_padchara_2011_2118.pdf){:target="_blank"} (9.1 MB)
+8. ![new](https://panchanga.karigiri.net/new.png "NEW")[Panchanga Panchaka Jataka Sputa for every minute](./files/panchanga_panchaka_jataka_sputa_etc for every minute.pdf){:target="_blank"} (9.1 MB)
 
 
 
