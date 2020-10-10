@@ -5,16 +5,12 @@ This site is to share the books and writings of Sri. B.K. Hari Shastry on variou
 Please share this site link with your friends, family members and other seekers of knowledge. We aim at adding more books and articles in the near future. Please revisit from time to time to get the updates.
 
 ### 2020-2021 Kannada Panchanga : 25.03.2020 to 12.04.2021
-![new](https://panchanga.karigiri.net/new.png "NEW")
 [Sri Sharvari Samvatsara Sringeri Panchanga](./files/sringeri_panchang_sharvari.pdf){:target="_blank"} (4.7 MB)
 
-![new](https://panchanga.karigiri.net/new.png "NEW")
 [Sri Sharvari Samvatsara Bengaluru Panchanga (Comprehensive)](./files/sharvari_50.pdf){:target="_blank"} (1.5 MB)
 
-![new](https://panchanga.karigiri.net/new.png "NEW")
 [Sri Sharvari Samvatsara Bengaluru Panchanga (Regular)](./files/sharvari_30.pdf){:target="_blank"} (5.1 MB)
 
-![new](https://panchanga.karigiri.net/new.png "NEW")
 [Sri Sharvari Samvatsara Bengaluru Panchanga (Mini)](./files/sharvari_20.pdf){:target="_blank"} (1.4 MB)
 
 [Sri Sharvari Samvatsara (2020-21) + 2020 (Jan-Dec) Sri Seebi Narasimha Swamy Panchanga](./files/sharvari_muhurtha_panchanga.pdf){:target="_blank"} (4 MB)
