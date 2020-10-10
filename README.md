@@ -4,6 +4,10 @@ This site is to share the books and writings of Sri. B.K. Hari Shastry on variou
 
 Please share this site link with your friends, family members and other seekers of knowledge. We aim at adding more books and articles in the near future. Please revisit from time to time to get the updates.
 
+### Latest 
+![new](https://panchanga.karigiri.net/new.png "NEW")[Plava Samvatsara Muhurta](./files/plava_muhurta.pdf){:target="_blank"} (519 KB)
+
+
 ### 2020-2021 Kannada Panchanga : 25.03.2020 to 12.04.2021
 [Sri Sharvari Samvatsara Sringeri Panchanga](./files/sringeri_panchang_sharvari.pdf){:target="_blank"} (4.7 MB)
 
@@ -36,9 +40,6 @@ Please share this site link with your friends, family members and other seekers 
 9. [Panchanga Panchaka Jataka Sputa for every minute](./files/panchanga_panchaka_jataka_sputa_etc for every minute.pdf){:target="_blank"} (9.1 MB)
 10. ![new](https://panchanga.karigiri.net/new.png "NEW")[Bruhat Muhurtamalika - Part 1](./files/bruhatmuhUrthamalika_part1.pdf){:target="_blank"} (11.9 MB)
 11. ![new](https://panchanga.karigiri.net/new.png "NEW")[Learning Bruhat Muhurtamalika](./files/learning_bruhatmuhUrthamalika.pdf){:target="_blank"} (352 KB)
-
-#### Specific to Plava Samvatsara
-1. ![new](https://panchanga.karigiri.net/new.png "NEW")[Plava Samvatsara Muhurta](./files/plava_muhurta.pdf){:target="_blank"} (519 KB)
 
 #### Specific to Vikari Samvatsara
 
