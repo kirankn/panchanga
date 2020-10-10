@@ -29,8 +29,8 @@ Please share this site link with your friends, family members and other seekers 
 ### Other Books & Writings
 
 #### General
-1. [Jyothirmunnudi - 1: Useful Astrology Topics](./files/jyothirmunnudi_part1.pdf){:target="_blank"} (990 KB)
-2. [Jyothirmunnudi - 2: Marriage](./files/jyothirmunnudi part2.pdf){:target="_blank"} (328 KB)
+*. [Jyothirmunnudi - 1: Useful Astrology Topics](./files/jyothirmunnudi_part1.pdf){:target="_blank"} (990 KB)
+*. [Jyothirmunnudi - 2: Marriage](./files/jyothirmunnudi part2.pdf){:target="_blank"} (328 KB)
 3. [Jyothirmunnudi - 3: District-wise Sunrise/Sunset Timings](./files/jyothirmunnudi_part_3_A5.pdf){:target="_blank"} (2 MB)
 4. [Nirayana Ephemeries at 0.00 IST from 2000-2024](./files/sphuta at_0Hr_IST.pdf){:target="_blank"} (2.8 MB)
 5. [Rasi Navamsha Padaka Padachara](./files/NEW_raSI_Navamsha_padaka_PADACHARA.pdf){:target="_blank"} (76 KB)
