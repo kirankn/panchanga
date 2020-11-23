@@ -5,6 +5,7 @@ This site is to share the books and writings of Sri. B.K. Hari Shastry on variou
 Please share this site link with your friends, family members and other seekers of knowledge. We aim at adding more books and articles in the near future. Please revisit from time to time to get the updates.
 
 ### Latest 
+![new](https://panchanga.karigiri.net/new.png "NEW")[Plava Samvatsara Panchanga](./files/plava_20Pg.pdf){:target="_blank"} (4.1 MB)
 ![new](https://panchanga.karigiri.net/new.png "NEW")[Plava Samvatsara Muhurta](./files/plava_muhurta.pdf){:target="_blank"} (519 KB)
 
 
