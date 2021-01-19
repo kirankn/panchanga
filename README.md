@@ -23,7 +23,7 @@ Please share this site link with your friends, family members and other seekers 
 
 ![new](https://panchanga.karigiri.net/new.png "NEW")[Plava Talikote Panchanga](./plava/talikote_panchanga_add.pdf){:target="_blank"} (785 KB)
 
-![new](https://panchanga.karigiri.net/new.png "NEW")[2021-22 Rasi Kundali](./plava/2021_22_rasi kundali.pdf){:target="_blank"} (130 KB)
+![new](https://panchanga.karigiri.net/new.png "NEW")[2021-22 Rasi Kundali](./plava/2021_22_rasi_kundali.pdf){:target="_blank"} (130 KB)
 
 ![new](https://panchanga.karigiri.net/new.png "NEW")[2021-22 Navamsa Kundali](./plava/21_22_navamsa_kundali.pdf){:target="_blank"} (870 KB)
 
