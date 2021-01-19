@@ -9,25 +9,6 @@ Please share this site link with your friends, family members and other seekers 
 
 ![new](https://panchanga.karigiri.net/new.png "NEW")[Plava Samvatsara Muhurta](./files/plava_muhurta.pdf){:target="_blank"} (519 KB)
 
-
-### 2020-2021 Kannada Panchanga : 25.03.2020 to 12.04.2021
-[Sri Sharvari Samvatsara Sringeri Panchanga](./files/sringeri_panchang_sharvari.pdf){:target="_blank"} (4.7 MB)
-
-[Sri Sharvari Samvatsara Bengaluru Panchanga (Comprehensive)](./files/sharvari_50.pdf){:target="_blank"} (1.5 MB)
-
-[Sri Sharvari Samvatsara Bengaluru Panchanga (Regular)](./files/sharvari_30.pdf){:target="_blank"} (5.1 MB)
-
-[Sri Sharvari Samvatsara Bengaluru Panchanga (Mini)](./files/sharvari_20.pdf){:target="_blank"} (1.4 MB)
-
-[Sri Sharvari Samvatsara (2020-21) + 2020 (Jan-Dec) Sri Seebi Narasimha Swamy Panchanga](./files/sharvari_muhurtha_panchanga.pdf){:target="_blank"} (4 MB)
-
-### Older Kannada Panchangas
-
-[Sri Vikari Samvatsara Sringeri Sri Sharada Panchanga](./files/vikari_sringeri_panchanga.pdf){:target="_blank"} (1.9 MB)
-
-[Sri Vikari Samvatsara Sri Seebi Narasimha Swamy Panchanga](./files/sheebi_pan.pdf){:target="_blank"} (6 MB)
-
-
 ### Other Books & Writings
 
 #### General
@@ -42,11 +23,6 @@ Please share this site link with your friends, family members and other seekers 
 9. [Panchanga Panchaka Jataka Sputa for every minute](./files/panchanga_panchaka_jataka_sputa_etc for every minute.pdf){:target="_blank"} (9.1 MB)
 10. ![new](https://panchanga.karigiri.net/new.png "NEW")[Bruhat Muhurtamalika - Part 1](./files/bruhatmuhUrthamalika_part1.pdf){:target="_blank"} (11.9 MB)
 11. ![new](https://panchanga.karigiri.net/new.png "NEW")[Learning Bruhat Muhurtamalika](./files/learning_bruhatmuhUrthamalika.pdf){:target="_blank"} (352 KB)
-
-#### Specific to Vikari Samvatsara
-
-1. [Drigganita Rasi Kundali](./files/RASI_vikari.pdf){:target="_blank"} (96 KB)
-2. [Drigganita Navamsa Kundali](./files/NAVAMSA_vikari.pdf){:target="_blank"} (447 KB)
 
 ### About
 ![Image](about.png)
